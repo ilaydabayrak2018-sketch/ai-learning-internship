@@ -47,6 +47,21 @@ Eğitimi 2 Adımdır:
 Büyük dil modellerinin en kritik zayıflığı halüsinasyon üretmeleridir. Bu modeller birer doğruluk veya arama motoru gibi değil, istatistiksel birer kelime tahmincisi mantığıyla çalışırlar. Bu sebeple bazen gerçekte hiç var olmayan bilgileri son derece akıcı, ikna edici ve kendinden emin bir dille uydurabilirler. Bu durum, özellikle araştırma ve karar alma gibi kritik alanlarda modellerin ürettiği verilerin mutlaka insan denetiminden geçirilmesini ve doğrulanmasını zorunlu kılar.
 
 
+Machine Learning (ML) ile Generative AI (GenAI) Aynı Şey Midir
+Machine Learning ve Generative AI aynı şey değildir. Aralarında bir üst küme alt küme ilişkisi vardır. ML verilerden örüntüler öğrenerek tahmin, karar verme veya sınıflandırma süreçlerini yönetir. GenAI ise ML mantığını kullanarak öğrendiği örüntülerden yola çıkarak tamamen yeni ve özgün içerikler üretir. 
+Örneğin bir modele çok sayıda e-posta gösterip “Bu gelen e-posta spam mı yoksa değil mi” diye sorulursa model veriyi analiz ederek ML ile sınıflandırma yapar. Fakat modele “Müşteriye teşekkür ve indirim kuponu içeren yeni bir e-posta yaz” denirse bu model Generative AI ile sıfırdan ve özgün olan bir e-posta metni üretir. 
+Deep Learning (DL) Bu Yapının Neresindedir
+Deep Learning bu yapının tam merkezindedir.
+Makine Öğrenimi (ML) çok geniştir; içinde doğrusal regresyon, karar ağaçları gibi basit istatistiksel yöntemler de bulunur.
+Deep Learning, Ham verideki (milyonlarca piksel veya kelime) soyut ve karmaşık ilişkileri çözebilen asıl mimaridir.
+Generative AI ise doğrudan Deep Learning üzerine inşa edilmiştir. Bugün görsel üreten Diffusion modelleri ya da metin yazan Büyük Dil Modelleri (LLM'ler/Transformer'lar), arka pl
+Örnek
+Machine Learning: Sisteme 10.000 tane kedi ve köpek fotoğrafı gösterilir.
+Deep Learning (Katman/Mimarisi): Modelin içindeki derin yapay sinir ağları, pikselleri tarayarak kedinin bıyıklarını, kulak üçgenini ve tüy dokusunu kendi kendine öğrenir.
+Generative AI Görevi: Derin öğrenme ağının öğrendiği bu kedi kavramını kullanarak, dünyada daha önce hiç var olmamış "Gözlük takmış uçan bir kedi”çizer.
+Kısacası; ML bir çatı, Deep Learning bunun en gelişmiş yöntemi, Generative AI ise bu motorla sıfırdan yeni şeyler üreten en güncel uygulama alanıdır.
+
+
 
 
 
