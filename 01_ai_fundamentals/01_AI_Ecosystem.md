@@ -1,4 +1,5 @@
 ÖĞRENİLECEK KONULAR
+
 1- Artificial Intelligence (AI)
 Karmaşık görevleri çözebilen, insan dışı program veya modellerdir (çeviri sistemleri, tıbbi tanı modelleri vb.).
 Dört temel odakta şekillenir: Veriden tahmin üreten geleneksel modeller (Tahminleyici Modeller-ML), karmaşık örüntüleri çözen derin sinir ağları (Derin Öğrenme- Deep Learning), yeni ve özgün içerik üreten üretken modeller (GenAI/LLM) ve sistemlerin adil, şeffaf, güvenilir ve etikliğini sağlayan sorumlu yapay zeka ilkeleri.
