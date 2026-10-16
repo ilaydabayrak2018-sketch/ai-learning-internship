@@ -56,9 +56,9 @@ Machine Learning (ML) çatısı altında yer alan Deep Learning, bu yapının ta
 Örneğin; Machine Learning bir fotoğraftaki canlının kedi mi köpek mi olduğunu sınıflandırır. Deep Learning, kedinin kulak, bıyık ve tüy yapısı gibi piksel düzeyindeki karmaşık örüntülerini kendi kendine çözer. Generative AI ise öğrenilen bu kedi temsilini kullanarak dünyada hiç var olmamış özgün bir içerik üretir. Örneğin "uzayda uçan şapkalı bir kedi" resmi çizer. 
 
 -----------------------------------------------------------------------------------------------------------------
+KAVRAM HARİTASI 
 
-KAVRAM HARİTASI
-<img width="1024" height="768" alt="kavram_haritasi png" src="https://github.com/user-attachments/assets/7af497fd-b271-435b-8e0a-249cfba1cc8b" />
+<img width="1024" height="768" alt="kavram_haritasi" src="https://github.com/user-attachments/assets/aa17371e-61f4-474f-aa37-4c1b18e990d6" />
 
 KAVRAM HARİTASI AÇIKLAMASI 
 
@@ -74,7 +74,15 @@ Deep Learning (DL): İnsan beynindeki nöron ağlarından esinlenen, çok sayıd
 Natural Language Processing (NLP): Bilgisayarların insan dilini anlayabilmesi, anlamını kaybetmeden sayılara dökebilmesi ve metin üretebilmesi için çalışan alandır.
 
 
+
 Computer Vision: Bilgisayarların fotoğrafları ve videoları sayılardan oluşan piksel tabloları olarak okuyup içindeki nesneleri tanımasını ve sınıflandırmasını sağlayan teknolojidir.
 
 
 Generative AI (GenAI): Verileri yalnızca sınıflandırmak veya filtrelemek yerine, öğrendiği kalıpları kullanarak sıfırdan tamamen yeni metin, görsel, ses ya da kod üreten güncel yapay zeka alanıdır.
+
+
+Dikey Hiyerarşi (Genelden Özele): 
+Ekosistem en üstte veriyi anlamlandıran Veri Bilimi ile başlar tüm akıllı sistemleri kapsayan Yapay Zekâ (AI) çatısı altında, veriden öğrenen Makine Öğrenmesi (ML) ve karmaşık örüntüleri çözen Derin Öğrenme (DL) katmanlarıyla derinleşir. Bu akış, yeni veri üreten GenAI ve dil kabiliyetini üst seviyeye taşıyan LLM ile tamamlanır.
+
+Yatay Uygulama Kolları: 
+Makine Öğrenmesi ve Derin Öğrenme omurgası görsel veriyi işleyen Computer Vision ve metin-konuşmayı kavrayıp GenAI katmanını besleyen Doğal Dil İşleme (NLP) alanlarına güç sağlar.
