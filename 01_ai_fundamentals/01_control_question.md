@@ -1,4 +1,4 @@
-KONTROL SORUSU
+#KONTROL SORUSU
 
 Machine Learning (ML) ile Generative AI (GenAI) Aynı Şey Midir?
 
