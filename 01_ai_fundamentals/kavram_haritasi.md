@@ -1,6 +1,6 @@
 KAVRAM HARİTASI 
 
-<img width="1024" alt="kavram_haritasi" src="./kavram_haritasi.png">
+<img width="1024" height="768" alt="kavram_haritasi" src="https://github.com/user-attachments/assets/3379829d-9f1b-421f-ac5b-cf503471bc21" />
 
 KAVRAM HARİTASI AÇIKLAMASI 
 
