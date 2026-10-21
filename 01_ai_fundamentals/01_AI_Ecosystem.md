@@ -37,21 +37,5 @@ Ham pikseller, boyutu düşürmek ve örüntüleri yakalamak amacıyla matematik
 Devasa metin verileriyle eğitilerek insan benzeri içerik anlama ve üretme yeteneği kazanan gelişmiş modellerdir (GPT, Gemini vb.). Metinleri parçalara (token) ayırıp sayısal verilere dönüştürür ve istatistiksel olarak sıradaki en muhtemel kelimeyi tahmin ederek yanıt üretir.
 Transformer ve Self-Attention mimarisi sayesinde tüm kelimeler arası anlamsal ilişkiyi eşzamanlı hesaplayarak uzun metinlerde bağlamı korur. Süreç, genel dil yapısının kavrandığı ön eğitim ve belirli görevlere odaklanan ince ayar aşamalarından oluşur. Birer doğruluk motoru değil olasılık temelli sistemler olduklarından, gerçeğe aykırı bilgileri ikna edici dille üretme (halüsinasyon) riski taşırlar ve bu kritik zayıflık çıktıların insan denetiminden geçirilmesini zorunlu kılar.
 
------------------------------------------------------------------------------------------------------------------
 
-KONTROL SORUSU
-
-Machine Learning (ML) ile Generative AI (GenAI) Aynı Şey Midir?
-Machine Learning ve Generative AI aynı şey değildir. Aralarında bir üst küme alt küme ilişkisi vardır. Machine Learning (ML) verilerden örüntüler öğrenerek tahmin, karar verme veya sınıflandırma süreçlerini yönetir. Generative AI (GenAI) ise Machine Learning (ML)  mantığını kullanarak öğrendiği örüntülerden yola çıkarak tamamen yeni ve özgün içerikler üretir. 
-
-
-Örneğin Yazılan bir kod bloğunu inceleyip içinde güvenlik açığı veya hata olup olmadığını tespit etmek Machine Learning görevidir. Verilen bir tanıma veya ihtiyaca göre o kod bloğunu sıfırdan yazmak ya da optimize etmek Generative AI görevidir. 
-
-
-Deep Learning (DL) Bu Yapının Neresindedir?
-
-Machine Learning (ML) çatısı altında yer alan Deep Learning, bu yapının tam merkezindedir. Karar ağaçları gibi basit istatistiksel yöntemlerin aksine çok katmanlı yapay sinir ağları sayesinde pikseller, ses dalgaları ve metinler gibi ham verilerdeki karmaşık örüntüleri insan müdahalesine gerek kalmadan kendi kendine çözer. Generative AI ise doğrudan bu mimari üzerine inşa edilmiştir ve görsel üreten modeller ve LLM'ler güçlerini derin sinir ağlarından alır. Kısacası ML genel çerçeveyi, Deep Learning bu verileri işleyen çekirdek motoru, Generative AI ise bu motorun ürettiği özgün çıktıları temsil eder.
-
-
-Örneğin; Machine Learning bir fotoğraftaki canlının kedi mi köpek mi olduğunu sınıflandırır. Deep Learning, kedinin kulak, bıyık ve tüy yapısı gibi piksel düzeyindeki karmaşık örüntülerini kendi kendine çözer. Generative AI ise öğrenilen bu kedi temsilini kullanarak dünyada hiç var olmamış özgün bir içerik üretir. Örneğin "uzayda uçan şapkalı bir kedi" resmi çizer. 
 
