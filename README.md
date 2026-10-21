@@ -7,13 +7,13 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 
 ---
 
-## 📌 İçindekiler
+## İçindekiler
 
-1. [01. Yapay Zeka Temelleri (AI Fundamentals)](#1-yapay-zeka-temelleri-ai-fundamentals)
-2. [02. Python Temelleri (Python Basics)](#2-python-temelleri-python-basics)
-3. [03. Python Uygulamaları (Python Practice)](#3-python-uygulamaları-python-practice)
-4. [Sunumlar (Presentations)](#4-sunumlar-presentations)
-5. [Haftalık Raporlar (Weekly Reports)](#5-haftalık-raporlar-weekly-reports)
+1. [01.AI Fundamentals](#1-yapay-zeka-temelleri-ai-fundamentals)
+2. [02.Python Basics](#2-python-temelleri-python-basics)
+3. [03.Python Practic)](#3-python-uygulamaları-python-practice)
+4. [Presentations](#presentations)
+5. [Weekly Reports](#weekly-reports)
 
 ---
 
