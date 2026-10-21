@@ -9,12 +9,11 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 
 ## İçindekiler
 
-1. [AI Fundamentals](#1-ai-fundamentals)
-2. [Python Basics](#2-python-basics)
-3. [Python Practice](#3-python-practice)
-4. [Presentations](#4-presentations)
-5. [Weekly Reports](#5-weekly-reports)
-
+1. [AI Fundamentals](#ai-fundamentals)
+2. [Python](#python-basics)
+3. [Python Practice](#python-practice)
+4. [Presentations](#presentations)
+5. [Weekly Reports](#weekly-reports)
 ---
 
 ##  Dizin Yapısı ve Modüller
