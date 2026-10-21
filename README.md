@@ -9,9 +9,9 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 
 ## İçindekiler
 
-1. [01.AI Fundamentals](#1-yapay-zeka-temelleri-ai-fundamentals)
-2. [02.Python Basics](#2-python-temelleri-python-basics)
-3. [03.Python Practic)](#3-python-uygulamaları-python-practice)
+1. [1.AI Fundamentals](#1-yapay-zeka-temelleri-ai-fundamentals)
+2. [2.Python Basics](#2-python-temelleri-python-basics)
+3. [3.Python Practic)](#3-python-uygulamaları-python-practice)
 4. [Presentations](#presentations)
 5. [Weekly Reports](#weekly-reports)
 
@@ -31,7 +31,7 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 *Klasör: `03_python_practice/`*
 * Algoritma pratikleri, veri yapıları alıştırmaları ve veri analizi çalışmaları.
 
-### Sunumlar (Presentations)
+### Presentations
 *Klasör: `presentations/`*
 * Staj sürecinde hazırlanan proje ve konu anlatım sunumları.
 
@@ -41,7 +41,7 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 
 ---
 
-## 🛠️ Kullanılan Araçlar ve Teknolojiler
+## Kullanılan Araçlar 
 * **Diller:** Python
 * **Ortamlar:** Google Colab
 * **Versiyon Kontrol:** Git & GitHub
