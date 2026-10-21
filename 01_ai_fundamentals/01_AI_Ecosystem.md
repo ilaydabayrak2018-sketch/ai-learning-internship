@@ -17,7 +17,7 @@ Temelde regresyon (sayısal değer tahmini) ve sınıflandırma (veriyi kategori
 
 
 4- Data Science (Veri Bilimi)
-Ham veriyi temizleyip modellerin işleyebileceği matematiksel formata sokma sürecidir (Çöp girerse, çöp çıkar). Farklı büyüklükteki sayıları ölçeklendirerek (scaling) dengeler, sözel verileri kodlayarak (encoding) sayılara çevirir ve değişkenleri birleştirerek yeni özellikler (feature crossing) türetir. Modelin ezberlemesini (overfitting) önlemek için veriyi Eğitim (%70-80), Doğrulama (%10-15) ve Test (%10-15) kümelerine ayırır ve uç değerleri temizleyip veri dengesini sağlayarak modelin taraflı (bias) kararlar vermesini engeller.
+Yapay zeka ve makine öğrenimi ile kesişen ham veriyi işleyerek anlamlı içgörüler ve aksiyona dönüştürülebilir değerler çıkarma disiplinidir. Süreç, veriyi modellerin işleyebileceği matematiksel formata getirmeyi (ölçeklendirme, encoding, özellik türetme ve dengesizlik giderme) kapsar. Modelin genel başarısını ve ezberleme (overfitting) eğilimini ölçüp test edebilmek için veri kümesi Eğitim, Doğrulama ve Test alt kümelerine ayrılır. Asıl amaç, yalnızca veriyi dönüştürmek değil bu veriden güvenilir, genellenebilir ve faydalı sonuçlar üretmektir.
 
 
 5- Generative AI (Üretken Yapay Zeka)
