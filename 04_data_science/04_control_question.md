@@ -1,17 +1,27 @@
 Bir Veri Setinde Model Kurmadan Önce Neleri Kontrol Etmeliyiz?
-1. Satır ve Sütun Sayısı 
+
+1. Satır ve Sütun Sayısı:
+
 Amacı verinin hacmini ve eğitim için yeterli örnek olup olmadığını görmek.
 Kontrol: df.shape ile toplam kaç satır ve sütun olduğu kontrol edilir.
-2. Veri Tipleri (Sayısal mı, Kategorik mi?)
+
+2. Veri Tipleri (Sayısal mı, Kategorik mi?):
+
 Makine öğrenmesi modelleri doğrudan metinle çalışamayacağı için hangi sütunun sayısal, hangisinin kategorik-metin olduğunu belirler.
 Kontrol: df.info() ve df.dtypes kullanılır. Yanlış formatta yüklenen sütunlar varsa tespit edilir.
-3. Eksik Değerler (Missing Values)
+
+3. Eksik Değerler (Missing Values):
+
 Eksik veriler çoğu modelde hata verir veya performansı düşürür ve temizleme-doldurma stratejisi belirlemek gerekir.
 Kontrol: df.isnull().sum() ile her sütunda kaç adet boş değer olduğu bulunur.
-4. Veri Dağılımı ve Kalite Özeti
-•	Sayısal Değişkenler: df.describe() ile ortalama (mean), standart sapma (std), minimum, maksimum ve çeyreklik değerler incelenir ve aykırı-mantıksız değerler var mı bakılır.
-•	Kategorik Değişkenler: df['sutun'].value_counts() ile sınıfların dağılımı ve sınıflar arası aşırı dengesizlik olup olmadığı kontrol edilir.
-•	df.head() ile ilk birkaç satır incelenerek verinin genel biçimi doğrulanır.
-5. Feature ve Target Tespiti
+
+4. Veri Dağılımı ve Kalite Özeti:
+
+Sayısal Değişkenler: df.describe() ile ortalama (mean), standart sapma (std), minimum, maksimum ve çeyreklik değerler incelenir ve aykırı-mantıksız değerler var mı bakılır.
+Kategorik Değişkenler: df['sutun'].value_counts() ile sınıfların dağılımı ve sınıflar arası aşırı dengesizlik olup olmadığı kontrol edilir.
+df.head() ile ilk birkaç satır incelenerek verinin genel biçimi doğrulanır.
+
+5. Feature ve Target Tespiti:
+
 Amacı modele tahmin ettirmek istediğimiz çıktı ile bu tahmini yapmak için kullanacağımız girdileri netleştirmek.
-•	Örnek: Titanic veri setinde yolcunun hayatta kalıp kalmadığı (Survived) hedef değişkendir. Yaş, bilet sınıfı ve cinsiyet ise girdi özellikleridir.
+Örnek: Titanic veri setinde yolcunun hayatta kalıp kalmadığı (Survived) hedef değişkendir. Yaş, bilet sınıfı ve cinsiyet ise girdi özellikleridir.
