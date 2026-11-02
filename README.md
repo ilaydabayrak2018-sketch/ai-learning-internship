@@ -10,11 +10,12 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 ## İçindekiler
 
 1. [AI Fundamentals](#1-ai-fundamentals)
-2. [Python](#2-python-basics)
+2. [Python](#2-python)
 3. [Python Practice](#3-python-practice)
 4. [Data Science & Exploratory Data Analysis (EDA)](#4-data-science--exploratory-data-analysis-eda)
-5. [Presentations](#presentations)
-6. [Weekly Reports](#weekly-reports)
+5. [Data Visualization](#5-data-visualization)
+6. [Presentations](#presentations)
+7. [Weekly Reports](#weekly-reports)
 
 
 ##  Dizin Yapısı ve Modüller
@@ -36,6 +37,10 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 - `04_data_exploration.ipynb`: Pandas kütüphanesi ile veri keşfi, veri temizleme, eksik değer analizi (`isnull`), özet istatistikler (`describe`, `info`, `value_counts`) ve hedef/öznitelik (feature/target) incelemesi.
 - **Klasör:** `datasets/`
 - Çalışmalarda kullanılan açık kaynaklı veri setleri (Titanic / Student Performance vb.).
+
+### 5. Data Visualization
+*Klasör: `05_visualization/`*
+* Matplotlib kütüphanesi ile veri görselleştirme pratikleri, dağılım grafikleri ve analiz görselleştirmeleri.
 
 ### Presentations
 *Klasör: `presentations/`*
