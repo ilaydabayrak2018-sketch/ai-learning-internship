@@ -47,12 +47,12 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 * Staj sürecinde hazırlanan proje ve konu anlatım sunumları.
 
 ### Weekly Reports
-- **Klasör:** `weekly_reports/`
-- `Week_01_Report.md`: 1. Hafta — AI Ekosistemi ve Kavram Haritası
-- `Week_02_Report.md`: 2. Hafta — Python Temelleri I (Sözdizimi, Veri Tipleri)
-- `Week_03_Report.md`: 3. Hafta — Python Temelleri II (Kontrol Akışı, Fonksiyonlar)
-- `Week_04_Report.md`: 4. Hafta — Veri Bilimine Giriş, Pandas ve Keşifçi Veri Analizi (EDA)
-- `Week_05_Report.md`: 5. Hafta — Veri Görselleştirme (Matplotlib)
+Klasör: `weekly_reports/`
+- `01_Weekly_Report.pdf`
+- `02_Weekly_Report.pdf`
+- `03_weekly_report.pdf`
+- `04_weekly_report.pdf`
+- `05_weekly_report.pdf`
 
 ## Kullanılan Araçlar 
 * **Diller:** Python
