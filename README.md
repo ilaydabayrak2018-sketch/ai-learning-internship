@@ -26,17 +26,15 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 
 ### 2. Python
 *Klasör: `02_python/`*
-* Python temel veri tipleri, döngüler, fonksiyonlar ve nesne yönelimli programlama (OOP) notları.
+* Temel sözdizimi, veri tipleri (sayılar, string metotları, booleans), temel veri yapıları (listeler, sözlükler) ve kullanıcıdan girdi alma (I/O) pratikleri.
 
 ### 3. Python Practice
 *Klasör: `03_python_practice/`*
-* Algoritma pratikleri, veri yapıları alıştırmaları ve veri analizi çalışmaları.
+* Kontrol akışları (`if-else`, `match-case`), döngüler (`for`, `while`), fonksiyonlar, hata yakalama mekanizmaları (`try-except`), standart kütüphane modülleri (`random`, `datetime`) ve dosya yönetimi (`with open`).
 
 ### 4. Data Science & Exploratory Data Analysis (EDA)
 - **Klasör:** `04_data_science/`
 - `04_data_exploration.ipynb`: Pandas kütüphanesi ile veri keşfi, veri temizleme, eksik değer analizi (`isnull`), özet istatistikler (`describe`, `info`, `value_counts`) ve hedef/öznitelik (feature/target) incelemesi.
-- **Klasör:** `datasets/`
-- Çalışmalarda kullanılan açık kaynaklı veri setleri (Titanic / Student Performance vb.).
 
 ### 5. Data Visualization
 *Klasör: `05_visualization/`*
