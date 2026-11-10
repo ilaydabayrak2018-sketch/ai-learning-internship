@@ -14,8 +14,9 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 3. [Python Practice](#3-python-practice)
 4. [Data Science & Exploratory Data Analysis (EDA)](#4-data-science--exploratory-data-analysis-eda)
 5. [Data Visualization](#5-data-visualization)
-6. [Presentations](#presentations)
-7. [Weekly Reports](#weekly-reports)
+6. [Machine Learning Fundamentals](#6-machine-learning-fundamentals)
+7. [Presentations](#presentations)
+8. [Weekly Reports](#weekly-reports)
 
 
 ##  Dizin Yapısı ve Modüller
@@ -40,9 +41,17 @@ Bu depo, yapay zeka ve veri bilimi staj programı sürecinde gerçekleştirilen 
 *Klasör: `05_visualization/`*
 * Matplotlib kütüphanesi ile veri görselleştirme pratikleri, dağılım grafikleri ve analiz görselleştirmeleri.
 
-### Presentations
-*Klasör: `presentations/`*
-* Staj sürecinde hazırlanan proje ve konu anlatım sunumları.
+### 6. Machine Learning Fundamentals
+
+Klasör: `06_ml_fundamentals/`
+* `06_ml_fundamentals.md`: Makine öğrenmesi temel kavramları (Supervised, Unsupervised), problem türleri (Classification, Regression, Clustering), modelleme bileşenleri (Feature, Target, Training, Train/Test Split) ve gerçek hayat senaryoları analizi.
+
+#### Presentations
+
+Klasör: `presentations/`
+
+* `01_Presentation.pdf`
+* `04_presentation.pdf`
 
 ### Weekly Reports
 Klasör: `weekly_reports/`
@@ -51,7 +60,8 @@ Klasör: `weekly_reports/`
 - `03_weekly_report.pdf`
 - `04_weekly_report.pdf`
 - `05_weekly_report.pdf`
-
+- `06_weekly_report.pdf`
+  
 ## Kullanılan Araçlar 
 * **Diller:** Python
 * **Ortamlar:** Google Colab
